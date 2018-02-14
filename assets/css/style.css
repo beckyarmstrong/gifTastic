@@ -1,0 +1,24 @@
+
+button, div, form, input {
+	margin: 5px;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
